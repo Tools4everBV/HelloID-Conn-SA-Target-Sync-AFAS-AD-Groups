@@ -68,8 +68,6 @@ The connection settings are defined in the automation variables.
 | Tools4ever - HelloID - T4E_HelloID_OrganizationalUnits.gcn | AFAS GetConnector to provide all Organizational Units        | 
 
 ## Remarks
-
-### The create process constist of 3 phases
 - The groups are only created, no update or deletion will take place.
   
 > When a group already exists, the group will be skipped (no update will take place).
