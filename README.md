@@ -43,7 +43,7 @@ The following items need to be configured according to your own environment
 ## Getting help
 > _For more information on how to configure a HelloID PowerShell scheduled task, please refer to our [documentation](https://docs.helloid.com/hc/en-us/articles/115003253294-Create-Custom-Scheduled-Tasks) pages_
 
-> _If you need help, feel free to ask questions on our [forum](https://forum.helloid.com)
+> _If you need help, feel free to ask questions on our [forum](https://forum.helloid.com)_
 
 ## HelloID Docs
 The official HelloID documentation can be found at: https://docs.helloid.com/
