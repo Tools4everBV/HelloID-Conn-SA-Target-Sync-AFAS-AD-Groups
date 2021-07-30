@@ -38,7 +38,7 @@ The following items need to be configured according to your own environment
 | Variable name                   | Example value                                                | Description                                                  |
 | ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | AFASBaseUri                     | https://12345.rest.afas.online/ProfitRestServices            | Base URI of the AFAS REST API endpoint for this environment  |
-| AFASToken                       | <token><version>1</version><data>D5R324DD5F4TRD945E530ED3CDD70D94BBDEC4C732B43F285ECB12345678</data></token>            | app token in XML format for this environment                 |
+| AFASToken                       | \<token>\<version>1\</version>\<data>D5R324DD5F4TRD945E530ED3CDD70D94BBDEC4C732B43F285ECB12345678\</data>\</token>            | app token in XML format for this environment                 |
 
 ## Getting help
 > _For more information on how to configure a HelloID PowerShell scheduled task, please refer to our [documentation](https://docs.helloid.com/hc/en-us/articles/115003253294-Create-Custom-Scheduled-Tasks) pages_
