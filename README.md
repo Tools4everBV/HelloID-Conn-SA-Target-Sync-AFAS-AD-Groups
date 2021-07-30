@@ -54,10 +54,10 @@ By using this connector you will have the ability to create AD groups based on d
 The connection settings are defined in the automation variables.
  1. Create the following [user defined variables](https://docs.helloid.com/hc/en-us/articles/360014169933-How-to-Create-and-Manage-User-Defined-Variables)
 
-| Variable name                   | Example value                                                | Description                                                  |
+| Variable name                   | Description                                                  | Example value                                                |
 | ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| AFASBaseUri                     | https://12345.rest.afas.online/ProfitRestServices            | Base URI of the AFAS REST API endpoint for this environment  |
-| AFASToken                       | \<token>\<version>1\</version>\<data>D5R324DD5F4TRD945E530ED3CDD70D94BBDEC4C732B43F285ECB12345678\</data>\</token>            | App token in XML format for this environment       
+| AFASBaseUri                     | Base URI of the AFAS REST API endpoint for this environment  | https://12345.rest.afas.online/ProfitRestServices            |
+| AFASToken                       | App token in XML format for this environment                 | \<token>\<version>1\</version>\<data>D5R324DD5F4TRD945E530ED3CDD70D94BBDEC4C732B43F285ECB12345678\</data>\</token>                               
 
 
 ## contents
