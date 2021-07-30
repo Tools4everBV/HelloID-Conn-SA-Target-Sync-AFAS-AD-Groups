@@ -34,11 +34,11 @@ The following GetConnectors are required by HelloID:
 ## Post-setup configuration
 The following items need to be configured according to your own environment
  1. Update the following [user defined variables](https://docs.helloid.com/hc/en-us/articles/360014169933-How-to-Create-and-Manage-User-Defined-Variables)
-<table>
-  <tr><td><strong>Variable name</strong></td><td><strong>Example value</strong></td><td><strong>Description</strong></td></tr>
-  <tr><td>AFASBaseUri</td><td>https://12345.rest.afas.online/ProfitRestServices</td><td>Base URI of the AFAS REST API endpoint for this environment</td></tr>
-<tr><td>AFASToken</td><td><token><version>1</version><data><token><version>1</version><data><token><version>1</version><data>D5R324DD5F4TRD945E530ED3CDD70D94BBDEC4C732B43F285ECB12345678</data></token></data></token></data></token></td><td>App token in XML format for this environment</td></tr>
-</table>
+
+| Variable name                   | Example value                                                | Description                                                  |
+| ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| AFASBaseUri                     | https://12345.rest.afas.online/ProfitRestServices            | Base URI of the AFAS REST API endpoint for this environment  |
+| AFASToken                       | <token><version>1</version><data>D5R324DD5F4TRD945E530ED3CDD70D94BBDEC4C732B43F285ECB12345678</data></token>            | app token in XML format for this environment                 |
 
 ## Getting help
 > _For more information on how to configure a HelloID PowerShell scheduled task, please refer to our [documentation](https://docs.helloid.com/hc/en-us/articles/115003253294-Create-Custom-Scheduled-Tasks) pages_
